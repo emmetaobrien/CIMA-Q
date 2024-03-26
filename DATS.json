@@ -1,0 +1,497 @@
+{
+  "title": "Consortium pour l'identification précoce de la maladie d'Alzheimer - Québec (CIMA-Q)",
+  "description": "The Consortium for the Early Identification of Alzheimer’s Disease (CIMA-Q) data and biological samples Bank is a structured collection of results from clinical, neuropsychological and neuropsychiatric tests and evaluations, as well as biological samples from adults in good health or with impaired cognition (subjective cognitive impairment, mild cognitive impairment, Alzheimer’s disease). \nThe CIMA-Q cohort is a longitudinal, multicentric, multifactorial and intersectorial study of more than 400 participants of 65 years old and older. The general objective of the CIMA-Q Bank is to support the achievement of research projects and the implementation of research collaborations targeting the identification of methods enabling an earlier diagnosis of Alzheimer’s and its associated cognitive impairments, a greater understanding of related mechanisms, and the development of therapeutic approaches, including pharmacological and non-pharmacological interventions, to slow, cease, compensate or reverse the effects of the disease and its associated impairments. The Bank offers to Consortium member researchers, a platform for conducting various research projects on Alzheimer’s Disease, related disorders, and diseases associated with aging and cognition.\n",
+  "dates": [
+    {
+      "date": "2024-03-01 00:00:00",
+      "type": {
+        "value": "last data release"
+      }
+    },
+    {
+      "date": "2014-11-18 00:00:00",
+      "type": {
+        "value": "first data collection"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "firstName": "Sylvie",
+      "lastName": "Belleville",
+      "email": "sylvie.belleville@umontreal.ca",
+      "affiliations": [
+        {
+          "name": "Réseau Québécois de Recherche sur le Vieillissement"
+        },
+        {
+          "name": "Université de Montréal"
+        },
+        {
+          "name": "Centre de recherche de l’Institut Universitaire de gériatrie de Montréal"
+        },
+        {
+          "name": "CIUSSS du Centre-Sud-de-l’Île-de-Montréal"
+        }
+      ],
+      "fullName": "Sylvie Belleville, Ph.D., MACSS FCAHS",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-1046-1818"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Neuropsychological assessment"
+      }
+    },
+    {
+      "information": {
+        "value": "Cognitive assessment "
+      }
+    },
+    {
+      "information": {
+        "value": "Neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Sample collection"
+      }
+    },
+    {
+      "information": {
+        "value": "Brain bank"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical diagnosis"
+      }
+    }
+  ],
+  "version": "15",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to CIMA-Q data use agreement"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "TSV",
+        "MNC",
+        "NIfTI",
+        "JSON"
+      ],
+      "size": 167,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "http://loris.cima-q.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "The Consortium for the early identification of Alzheimer’s disease–Quebec (CIMA-Q)",
+      "publicationVenue": "",
+      "authors": [
+        {
+          "fullName": "Sylvie Belleville",
+          "firstName": "Sylvie",
+          "middleInitial": "",
+          "lastName": "Belleville",
+          "affiliations": [
+            {
+              "name": "Psychology Department, Université de Montréal, Montreal, Canada"
+            },
+            {
+              "name": "Research Center, Institut Universitaire de Gériatrie de Montréal, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Andréa C. LeBlanc",
+          "firstName": "Andréa",
+          "middleInitial": "C.",
+          "lastName": "LeBlanc",
+          "affiliations": [
+            {
+              "name": "Department of Neurology and Neurosurgery, McGill University, Montreal, Canada"
+            },
+            {
+              "name": "Lady Davis Institute, Jewish General Hospital, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Marie-Jeanne Kergoat",
+          "firstName": "Marie-Jeanne",
+          "middleInitial": "",
+          "lastName": "Kergoat",
+          "affiliations": [
+            {
+              "name": "Research Center, Institut Universitaire de Gériatrie de Montréal, Montreal, Canada"
+            },
+            {
+              "name": "Department of Geriatric, Université de Montréal, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Frédéric Calon",
+          "firstName": "Frédéric",
+          "middleInitial": "",
+          "lastName": "Calon",
+          "affiliations": [
+            {
+              "name": "Faculty of Pharmacy, Université Laval, Québec, Canada"
+            },
+            {
+              "name": "Centre de recherche du CHU de Québec, Université Laval, Québec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Pierrette Gaudreau",
+          "firstName": "Pierrette",
+          "middleInitial": "",
+          "lastName": "Gaudreau",
+          "affiliations": [
+            {
+              "name": "Department of Medicine, Université de Montréal, Montreal, Canada"
+            },
+            {
+              "name": "Centre Hospitalier de l’Universitéde Montréal Research Center, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Sébastien S. Hébert",
+          "firstName": "Sébastien",
+          "middleInitial": "S.",
+          "lastName": "Hébert",
+          "affiliations": [
+            {
+              "name": "Centre de recherche du CHU de Québec, Université Laval, Québec, Canada"
+            },
+            {
+              "name": "Department of Psychiatry and Neurosciences, Université Laval, Québec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Carol Hudon",
+          "firstName": "Carol",
+          "middleInitial": "",
+          "lastName": "Hudon",
+          "affiliations": [
+            {
+              "name": "School of Psychology, Université Laval, Québec, Canada"
+            },
+            {
+              "name": "Centre de recherche CERVO, Institut Universitaire en Santé Mentale de Québec, Québec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Nicole Leclerc",
+          "firstName": "Nicole",
+          "middleInitial": "",
+          "lastName": "Leclerc",
+          "affiliations": [
+            {
+              "name": "Centre Hospitalier de l’Université de Montréal Research Center, Montreal, Canada"
+            },
+            {
+              "name": "Department of Neurosciences, Université de Montréal, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Naguib Mechawar",
+          "firstName": "Naguib",
+          "middleInitial": "",
+          "lastName": "Mechawar",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, McGill University, Montreal, Canada"
+            },
+            {
+              "name": "Douglas Mental Health University Institute, Montreal, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Simon Duchesne",
+          "firstName": "Simon",
+          "middleInitial": "",
+          "lastName": "Duchesne",
+          "affiliations": [
+            {
+              "name": "Centre de recherche CERVO, Institut Universitaire en Santé Mentale de Québec, Quebec, Canada"
+            },
+            {
+              "name": "Department of Radiology and Nuclear Medicine, Université Laval, Québec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Serge Gauthier",
+          "firstName": "Serge",
+          "middleInitial": "",
+          "lastName": "Gauthier",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, McGill University, Montreal, Canada"
+            },
+            {
+              "name": "McGill Center for Studies in Aging, Montreal, Canada"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2019-12-01 00:00:00",
+          "type": {
+            "value": "first publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "10.1016/j.dadm.2019.07.003",
+        "identifierSource": " https://doi.org/"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Quebec",
+      "description": "Participants are recruited in Montreal, Quebec City and Sherbrooke"
+    }
+  ],
+  "dimensions": [
+    {
+      "name": {
+        "value": "Timepoint"
+      },
+      "description": "A complete evaluation take place every 2 years from the initial visit (T0, T2, T4, T6, T8), whereas a telephone clinical follw-up is done at year 1 3, 5, 7 (T1, T3, T5, T7)"
+    },
+    {
+      "name": {
+        "value": "Gender"
+      },
+      "description": ""
+    },
+    {
+      "name": {
+        "value": "Clinical diagnostic"
+      },
+      "description": "Participants are classified as cognitively healthy (control), subjective cognitive decline (SCD), mild cognitive impairment (MCI), Alzheimer's type demencia (AD). MCI can be subdivided into early and late MCI."
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Fonds de recherche du Québec - Plateforme de financements de la recherche intersectorielle sur le vieillissement",
+          "abbreviation": "FRQ - volet cohorte"
+        },
+        {
+          "name": "Canadian Institute of Health Research",
+          "abbreviation": "CIHR"
+        },
+        {
+          "name": "Quebec Network for Research on Aging",
+          "abbreviation": "RQRV"
+        },
+        {
+          "name": "Fonds de recherche du Québec–Santé - Pfizer Innovation Program",
+          "abbreviation": "FRQS"
+        },
+        {
+          "name": "Fondation Famille Lemaire",
+          "abbreviation": ""
+        },
+        {
+          "name": "Fondation Courtois (Neuromod project)",
+          "abbreviation": ""
+        },
+        {
+          "name": "Consortium for the Neurodegeneration associated with Aging",
+          "abbreviation": "CCNA"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Alzheimer disease"
+    },
+    {
+      "value": "subjective cognitive decline"
+    },
+    {
+      "value": "mild cognitive impairment"
+    },
+    {
+      "value": "blood"
+    },
+    {
+      "value": "cerebrospinal fluid"
+    },
+    {
+      "value": "cognition"
+    },
+    {
+      "value": "memory"
+    },
+    {
+      "value": "sleep"
+    },
+    {
+      "value": "language"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "Magnetic resonance spectroscopy"
+    },
+    {
+      "value": "PET"
+    },
+    {
+      "value": "PBMC"
+    },
+    {
+      "value": "longitudinal"
+    },
+    {
+      "value": "biomarkers"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "412"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "14087"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "Consortium for the Early Identification of Alzheimer’s Disease - Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Montreal Geriatrics University Institute Research centre"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "D:\\CIMA-Q\\Article et présentation CIMA-Q\\Logo\\CIMA-Q"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
