@@ -485,6 +485,14 @@
         }
       ]
     },
+	{
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "http://www.cima-q.ca/en/data-cima-q/"
+        }
+      ]
+    },
     {
       "category": "REB_statement",
       "values": [
