@@ -55,17 +55,20 @@
   "types": [
     {
       "information": {
-        "value": "Neuropsychological assessment"
+        "value": "Neuropsychological assessment",
+		"valueIRI": "http://uri.interlex.org/ilx_0485663"
       }
     },
     {
       "information": {
-        "value": "Cognitive assessment "
+        "value": "Cognitive assessment",
+		"valueIRI": "http://uri.interlex.org/ilx_0102339"
       }
     },
     {
       "information": {
-        "value": "Neuroimaging"
+        "value": "Neuroimaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0741206"
       }
     },
     {
@@ -490,6 +493,14 @@
       "values": [
         {
           "value": "http://www.cima-q.ca/en/data-cima-q/"
+        }
+      ]
+    },
+	{
+      "category": "downloadOptions",
+      "values": [
+        {
+          "value": "offsite"
         }
       ]
     },
