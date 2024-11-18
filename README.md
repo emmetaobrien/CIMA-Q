@@ -242,11 +242,11 @@ Nationality, marital status, language, living arrangements, social support netwo
 30. DVE/RDW
 31. P1t/PLAT/PLAQ
 32. VPM
-33. Neu  ab/NE#Neutrophils
-34. LYM ab/LY#Lymphocytes
-35. Mon ab/LY#Monocytes
-36. Eos ab/EO#Esinophils
-37. Baso ab/BA#Basophils
+33. Neu ab/NE#/Neutrophils
+34. LYM ab/LY#/Lymphocytes
+35. Mon ab/LY#/Monocytes
+36. Eos ab/EO#/Esinophils
+37. Baso ab/BA#/Basophils
 
 </details>
 
