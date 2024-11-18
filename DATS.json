@@ -17,6 +17,35 @@
   ],
   "creators": [
     {
+      "fullName": "Frédéric Calon",
+      "firstName": "Frédéric",
+      "lastName": "Calon",
+      "email": "frederic.calon@pha.ulaval.ca",
+      "affiliations": [
+        {
+          "name": "Université Laval"
+        },
+        {
+          "name": "Centre de recherche du CHU de Québec-Laval University"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-4203-0887"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "firstName": "Sylvie",
       "lastName": "Belleville",
       "email": "sylvie.belleville@umontreal.ca",
@@ -37,7 +66,7 @@
       "fullName": "Sylvie Belleville, Ph.D., MACSS FCAHS",
       "roles": [
         {
-          "value": "Principal Investigator"
+          "value": "Contributor"
         }
       ],
       "extraProperties": [
@@ -55,20 +84,17 @@
   "types": [
     {
       "information": {
-        "value": "Neuropsychological assessment",
-		"valueIRI": "http://uri.interlex.org/ilx_0485663"
+        "value": "Neuropsychological assessment"
       }
     },
     {
       "information": {
-        "value": "Cognitive assessment",
-		"valueIRI": "http://uri.interlex.org/ilx_0102339"
+        "value": "Cognitive assessment"
       }
     },
     {
       "information": {
-        "value": "Neuroimaging",
-		"valueIRI": "http://uri.interlex.org/ilx_0741206"
+        "value": "Neuroimaging"
       }
     },
     {
@@ -412,7 +438,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": "412"
+          "value": 412
         }
       ]
     },
@@ -481,14 +507,6 @@
       ]
     },
     {
-      "category": "contact",
-      "values": [
-        {
-          "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
-        }
-      ]
-    },
-	{
       "category": "registrationPage",
       "values": [
         {
@@ -496,19 +514,19 @@
         }
       ]
     },
-	{
-      "category": "downloadOptions",
+    {
+      "category": "contact",
       "values": [
         {
-          "value": "offsite"
+          "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
         }
       ]
     },
     {
-      "category": "REB_statement",
+      "category": "experimentAdditionalRequirements",
       "values": [
         {
-          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+          "value": []
         }
       ]
     }
