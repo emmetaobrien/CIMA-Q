@@ -1,6 +1,6 @@
 {
   "title": "Consortium pour l'identification précoce de la maladie d'Alzheimer - Québec (CIMA-Q)",
-  "description": "The Consortium for the Early Identification of Alzheimer’s Disease (CIMA-Q) data and biological samples Bank is a structured collection of results from clinical, neuropsychological and neuropsychiatric tests and evaluations, as well as biological samples from adults in good health or with impaired cognition (subjective cognitive impairment, mild cognitive impairment, Alzheimer’s disease). \nThe CIMA-Q cohort is a longitudinal, multicentric, multifactorial and intersectorial study of more than 400 participants of 65 years old and older. The general objective of the CIMA-Q Bank is to support the achievement of research projects and the implementation of research collaborations targeting the identification of methods enabling an earlier diagnosis of Alzheimer’s and its associated cognitive impairments, a greater understanding of related mechanisms, and the development of therapeutic approaches, including pharmacological and non-pharmacological interventions, to slow, cease, compensate or reverse the effects of the disease and its associated impairments. The Bank offers to Consortium member researchers, a platform for conducting various research projects on Alzheimer’s Disease, related disorders, and diseases associated with aging and cognition.\n",
+  "description": "The Consortium for the Early Identification of Alzheimer’s Disease - Québec (CIMA-Q) data and biological samples Bank is a structured collection of results from clinical, neuropsychological and neuropsychiatric tests and evaluations, as well as biological samples from adults in good health or with impaired cognition (subjective cognitive impairment, mild cognitive impairment, Alzheimer’s disease). \nThe CIMA-Q cohort is a longitudinal, multicentric, multifactorial and intersectorial study of more than 400 participants of 65 years old and older. The general objective of the CIMA-Q Bank is to support the achievement of research projects and the implementation of research collaborations targeting the identification of methods enabling an earlier diagnosis of Alzheimer’s and its associated cognitive impairments, a greater understanding of related mechanisms, and the development of therapeutic approaches, including pharmacological and non-pharmacological interventions, to slow, cease, compensate or reverse the effects of the disease and its associated impairments. The Bank offers to Consortium member researchers, a platform for conducting various research projects on Alzheimer’s Disease, related disorders, and diseases associated with aging and cognition.\n",
   "dates": [
     {
       "date": "2024-03-01 00:00:00",
@@ -16,6 +16,35 @@
     }
   ],
   "creators": [
+    {
+      "fullName": "Frédéric Calon",
+      "firstName": "Frédéric",
+      "lastName": "Calon",
+      "email": "frederic.calon@pha.ulaval.ca",
+      "affiliations": [
+        {
+          "name": "Université Laval"
+        },
+        {
+          "name": "Centre de recherche du CHU de Québec-Laval University"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-4203-0887"
+            }
+          ]
+        }
+      ]
+    },
     {
       "firstName": "Sylvie",
       "lastName": "Belleville",
@@ -37,7 +66,7 @@
       "fullName": "Sylvie Belleville, Ph.D., MACSS FCAHS",
       "roles": [
         {
-          "value": "Principal Investigator"
+          "value": "Contributor"
         }
       ],
       "extraProperties": [
@@ -55,20 +84,17 @@
   "types": [
     {
       "information": {
-        "value": "Neuropsychological assessment",
-		"valueIRI": "http://uri.interlex.org/ilx_0485663"
+        "value": "Neuropsychological assessment"
       }
     },
     {
       "information": {
-        "value": "Cognitive assessment",
-		"valueIRI": "http://uri.interlex.org/ilx_0102339"
+        "value": "Cognitive assessment"
       }
     },
     {
       "information": {
-        "value": "Neuroimaging",
-		"valueIRI": "http://uri.interlex.org/ilx_0741206"
+        "value": "Neuroimaging"
       }
     },
     {
@@ -285,7 +311,7 @@
         }
       ],
       "identifier": {
-        "identifier": "10.1016/j.dadm.2019.07.003",
+        "identifier": "https://doi.org/10.1016/j.dadm.2019.07.003",
         "identifierSource": " https://doi.org/"
       }
     }
@@ -412,7 +438,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": "412"
+          "value": 412
         }
       ]
     },
@@ -481,14 +507,6 @@
       ]
     },
     {
-      "category": "contact",
-      "values": [
-        {
-          "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
-        }
-      ]
-    },
-	{
       "category": "registrationPage",
       "values": [
         {
@@ -496,19 +514,27 @@
         }
       ]
     },
-	{
-      "category": "downloadOptions",
+    {
+			"category": "downloadOptions",
+			"values": [
+				{
+					"value": "offsite"
+				}
+			]
+		},
+    {
+      "category": "contact",
       "values": [
         {
-          "value": "offsite"
+          "value": "Isabel Arsenault, cimaq@criugm.qc.ca"
         }
       ]
     },
     {
-      "category": "REB_statement",
+      "category": "experimentAdditionalRequirements",
       "values": [
         {
-          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+          "value": []
         }
       ]
     }
