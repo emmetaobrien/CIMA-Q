@@ -515,13 +515,13 @@
       ]
     },
     {
-			"category": "downloadOptions",
-			"values": [
-				{
-					"value": "offsite"
-				}
-			]
-		},
+		"category": "downloadOptions",
+		"values": [
+		{
+				"value": "offsite"
+			}
+		]
+	},
     {
       "category": "contact",
       "values": [
